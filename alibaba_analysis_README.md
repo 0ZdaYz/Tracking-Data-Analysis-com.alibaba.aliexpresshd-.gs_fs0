@@ -4,7 +4,7 @@
 
 Analysis of hidden tracking files created by AliExpress app at:
 ```
-/run/.gs/com.alibaba.aliexpresshd/.gs_fs0/0/
+/run/.gs/com.alibaba.aliexpresshd/.gs_fs0/0/ 
 ```
 
 These files are part of Alibaba's **UTDID SDK** (Unique Terminal Device ID) - a cross-app tracking system.
